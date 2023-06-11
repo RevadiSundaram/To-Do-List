@@ -11,9 +11,19 @@
       "item": "Block Chain"
     },
     {
-      "id": 3,
+      "id": 4,
+      "checked": true,
+      "item": "git"
+    },
+    {
+      "id": 5,
       "checked": false,
-      "item": "AI"
+      "item": "React  Course"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Git Course"
     }
   ]
 }
